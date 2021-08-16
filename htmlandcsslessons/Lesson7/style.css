@@ -1,0 +1,19 @@
+.birinci-metn{
+    /*Comment*/
+    color: red;
+    font-size: 50px;
+    font-family: sans-serif ;
+    font-weight: bolder;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.box p{ 
+    color: rgb(0, 241, 52);
+    font-size: 19px;
+}

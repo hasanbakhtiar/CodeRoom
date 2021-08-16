@@ -1,0 +1,35 @@
+body{
+    margin-left: 100px;
+}
+
+.box1{
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.box2{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
+.box3{
+    display: inline;
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+}
+
+p{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+span{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
