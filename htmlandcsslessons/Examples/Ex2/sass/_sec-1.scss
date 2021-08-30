@@ -1,0 +1,39 @@
+.sec-1{
+    width: 100%;
+    height: 611px;
+    background-image: url('../img/sec-1.jpg');
+    background-size: cover;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+    .lower-slogan-con{
+        width: 470px;
+        height: 214px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        .ft-txt{
+            font-size: 22px;
+            color: $gold;
+            font-family: sans-serif;
+        }
+        h3{
+            font-size: 48px;
+            font-family: sans-serif;
+        }
+        button{
+            width: 156px;
+            height: 40px;
+            background-color: $gold;
+            border-radius: 3px;
+            border: none;
+            color: #fff;
+            text-transform: uppercase;
+            font-weight: bolder;
+        }
+        
+
+    }
+}
