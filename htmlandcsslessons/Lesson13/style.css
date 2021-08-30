@@ -1,0 +1,25 @@
+.box1 {
+  position: fixed;
+  z-index: 15;
+  width: 100%;
+  height: 100px;
+  background-color: rgba(15, 128, 0, 0.644);
+}
+
+.color-box {
+  position: absolute;
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  z-index: 20;
+}
+
+.box5 {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 10px;
+  width: 100%;
+  height: 100px;
+  background-color: pink;
+}
+/*# sourceMappingURL=style.css.map */
