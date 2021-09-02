@@ -1,0 +1,14 @@
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+@media only screen and (min-width: 700px) {
+  .box {
+    width: 200px;
+    height: 300px;
+    background-color: green;
+  }
+}
+/*# sourceMappingURL=style.css.map */

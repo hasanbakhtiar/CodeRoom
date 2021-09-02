@@ -1,0 +1,44 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.box{
+    width: 100px;
+    height: 200px;
+    background-color: red;
+    // transform: rotate(221deg);
+    // transform: translateY(100px);
+    // transform: translateX(100px);
+    // transform: translate(200px,100px);
+    // transform: scaleY(10);
+    // transform: scaleX(10);
+    // transform: scale(10,10);
+    // transform: skewY(70deg);
+    // transform: skewX(70deg);
+    // transform: skew(10deg,50deg);
+    // matrix(scaleX(),skewY(),skewX(),scaleY(),translateX(),translateY())
+    // transform: matrix(1, -0.3, 0, 1, 0, 0);
+
+    // transition: width 2s, height 4s, background-color 5s;
+    transition-property:all; //xüsusiyyətləri
+    transition-duration: 2s; //ərzində
+    transition-timing-function: linear; // animasiyanin axıcılığı
+    transition-delay: 1s; //gecikmə 
+
+//     #div1 {transition-timing-function: linear;}
+//     #div2 {transition-timing-function: ease;}
+//     #div3 {transition-timing-function: ease-in;}
+//     #div4 {transition-timing-function: ease-out;}
+//     #div5 {transition-timing-function: ease-in-out;}
+
+    &:hover{
+        width: 500px;
+        height: 400px;
+        background-color: green;
+    }
+   
+ 
+}
