@@ -1,0 +1,8 @@
+.nav-int {
+  width: 50%;
+}
+
+.nav-int li a:hover {
+  color: red !important;
+}
+/*# sourceMappingURL=style.css.map */

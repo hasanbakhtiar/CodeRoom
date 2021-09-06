@@ -1,0 +1,10 @@
+.nav-int{
+    width: 50%;
+    li{
+        a{
+            &:hover{
+                color: red !important;
+            }
+        }
+    }
+}
