@@ -1,0 +1,19 @@
+.newColor {
+  color: red;
+}
+
+.oldColor {
+  color: green;
+}
+
+#test {
+  color: indigo;
+}
+
+.box1 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  margin-bottom: 10px;
+}
+/*# sourceMappingURL=style.css.map */
