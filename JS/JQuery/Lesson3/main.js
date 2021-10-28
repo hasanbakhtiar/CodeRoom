@@ -1,0 +1,14 @@
+// https://www.w3schools.com/jquery/jquery_hide_show.asp
+// https://www.w3schools.com/jquery/jquery_fade.asp
+// https://www.w3schools.com/jquery/jquery_slide.asp
+// https://www.w3schools.com/jquery/jquery_animate.asp
+// https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_stop_slide
+// https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_chaining
+// https://www.w3schools.com/jquery/jquery_dom_get.asp
+// https://www.w3schools.com/jquery/jquery_dom_set.asp
+// https://www.w3schools.com/jquery/jquery_dom_add.asp
+// https://www.w3schools.com/jquery/jquery_dom_remove.asp
+// https://www.w3schools.com/jquery/jquery_css_classes.asp
+// https://www.w3schools.com/jquery/jquery_css.asp
+// https://www.w3schools.com/jquery/jquery_dimensions.asp
+// https://www.w3schools.com/jquery/jquery_filters.asp
