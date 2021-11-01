@@ -1,0 +1,7 @@
+{
+    "Car":{
+        "name":"BMW",
+        "color": "white",
+        "engine":"v5"
+    }
+}
